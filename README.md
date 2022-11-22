@@ -1,4 +1,4 @@
-## Oi eu sou o Vitor alex calisto, Estudante em tecnico em informatica!
+## Oi eu sou o Vitor alex calisto, Estudante em Tecnico em Informatica!
 <div align="center">
   <a href="https://github.com/blac-force">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=black-force&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
