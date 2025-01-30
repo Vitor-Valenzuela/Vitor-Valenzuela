@@ -1,4 +1,5 @@
-## Oi eu sou o Vitor alex calisto, Estudante em Tecnico em Informatica!
+## Oi eu sou o Vitor alex calisto,Tecnico em Informatica e agora fazendo graduação em Sistemas de Informação!
+
 
 
 ## 🌐 Socials:
