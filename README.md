@@ -1,4 +1,6 @@
-## Oi eu sou o Vitor alex calisto,Tecnico em Informatica e agora fazendo graduação em Sistemas de Informação!
+## Oi eu sou o Vitor alex calisto
+Tecnico em Informatica
+Cursando graduação em Sistemas de Informação!
 
 
 
