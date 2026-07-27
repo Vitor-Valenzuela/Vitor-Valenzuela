@@ -1,27 +1,249 @@
-## Oi eu sou o Vitor alex calisto
-Tecnico em Informatica
+# 👋 Olá, eu sou o Vitor Alex Calisto
+
+<div align="center">
 
 
-Cursando graduação em Sistemas de Informação!
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=Vitor-Valenzuela&label=Visualizações&style=for-the-badge&color=0e75b6"/>
 
+<img src="https://img.shields.io/github/followers/Vitor-Valenzuela?style=for-the-badge&logo=github"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.dark_2.0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http.vitoralex) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vitor_alex0412) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vitor_alex0412) 
+<img src="https://img.shields.io/github/stars/Vitor-Valenzuela?style=for-the-badge&logo=github"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vitor-Valenzuela&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Valenzuela&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Valenzuela&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://img.shields.io/github/last-commit/Vitor-Valenzuela/Vitor-Valenzuela?style=for-the-badge"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vitor-Valenzuela&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Profile-Active-success?style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Black-force&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+# 💫 Sobre Mim
+
+```yaml
+Nome: Vitor Alex Calisto
+
+Formação:
+  • Técnico em Informática
+  • Graduando em Sistemas de Informação
+
+Área:
+  • Desenvolvimento Full Stack
+  • Automação
+  • Engenharia de Software
+  • Desenvolvimento Web
+
+Interesses:
+  • Spring Boot
+  • Flutter
+  • Inteligência Artificial
+  • APIs REST
+  • Ciência de Dados
+  • Cloud Computing
+```
+
+---
+
+# 🚀 Atualmente
+
+```text
+🌱 Estudando........ Java | Spring Boot | Flutter | IA
+
+💻 Desenvolvendo.... Sistemas Web
+
+📚 Aprimorando...... Arquitetura de Software
+
+🎯 Objetivo......... Engenheiro de Software
+
+⚡ Sempre buscando aprender novas tecnologias
+```
+
+---
+
+# 🧠 Linguagens
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,php,c,cpp,html,css"/>
+
+</p>
+
+---
+
+# ⚙️ Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,bootstrap,flutter"/>
+
+</p>
+
+---
+
+# 🗄 Banco de Dados
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</p>
+
+---
+
+# 🛠 Ferramentas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,eclipse,canva"/>
+
+</p>
+
+---
+
+# 💻 Sistemas Operacionais
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux"/>
+
+</p>
+
+---
+
+
+# 📈 Gráfico de Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor-Valenzuela&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vitor-Valenzuela&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+
+</div>
+
+---
+
+# 📌 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-Valenzuela&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor-Valenzuela&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitor-Valenzuela&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor-Valenzuela&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitor-Valenzuela&theme=tokyonight&utcOffset=-4"/>
+
+</div>
+
+---
+
+# 📂 Projetos em Destaque
+
+| Projeto                 | Descrição                                                                                                  |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 📊 DataAnalyzer Pro     | Plataforma para análise inteligente de planilhas, dashboards, gráficos e geração automática de relatórios. |
+| ❤️ Vitor & Sarah        | Aplicação desenvolvida em Flutter para registrar momentos especiais do casal.                              |
+| 🏥 Cuidar+              | Sistema de gerenciamento e automação para programas da área da saúde.                                      |
+| 🌐 Sites Institucionais | Desenvolvimento de páginas responsivas utilizando HTML, CSS, JavaScript e Bootstrap.                       |
+
+---
+
+# 📅 Roadmap 2026
+
+* [x] Aprender Spring Boot
+
+* [x] Desenvolver APIs REST
+
+* [x] Aprender PostgreSQL
+
+* [ ] Publicar novos projetos Open Source
+
+* [ ] Aprender Docker
+
+* [ ] Aprender Kubernetes
+
+* [ ] Aprender AWS
+
+* [ ] Desenvolver SaaS próprio
+
+* [ ] Contribuir para projetos Open Source
+
+---
+
+# 📖 Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+
+
+# 🌎 Redes Sociais
+
+<div align="center">
+
+<a href="https://instagram.com/https.vitoralex">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://discord.gg/.dark_2.0">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
+</a>
+
+<a href="https://x.com/Vitor_alex0412">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://twitch.tv/vitor_alex0412">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch"/>
+</a>
+
+
+
+
+</div>
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+📧 [vitoralex0412@gmail.com](mailto:vitoralex0412@gmail.com)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+### Obrigado pela visita!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:8a2be2&section=footer"/>
+
 </div>
