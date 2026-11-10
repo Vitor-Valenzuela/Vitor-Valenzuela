@@ -65,21 +65,31 @@ Busco aprimorar continuamente minhas competências técnicas por meio de estudos
 
 ## Estatísticas do GitHub
 
+
 <div align="center">
 
-<a href="https://github.com/Vitor-Valenzuela">
-<img height="165" src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-</a>
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=Vitor-Valenzuela&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&v=2"
+  alt="Estatísticas do GitHub"
+/>
 
-<a href="https://github.com/Vitor-Valenzuela">
-<img height="165" src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/languages-output/languages.svg?layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vitor-Valenzuela&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&v=2"
+  alt="Linguagens mais utilizadas"
+/>
 
-<br>
+<br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Vitor-Valenzuela&theme=tokyonight&hide_border=true&border_radius=10" />
+<img
+  width="75%"
+  src="https://streak-stats.demolab.com?user=Vitor-Valenzuela&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8"
+  alt="Sequência de contribuições"
+/>
 
 </div>
+
 
 
 ---
