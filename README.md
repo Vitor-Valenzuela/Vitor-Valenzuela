@@ -81,15 +81,6 @@ Busco aprimorar continuamente minhas competências técnicas por meio de estudos
 
 </div>
 
----
-
-## Conquistas
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/trophy-output/trophy.svg?theme=tokyonight&column=4&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" />
-
-</div>
 
 ---
 
