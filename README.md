@@ -1,101 +1,147 @@
-<h1 data-importer="text" align="center">Olá! Seja bem-vindo(a) ao meu GitHub.<br><br>Sou estudante e entusiasta da área de Tecnologia da Informação, interessado em desenvolvimento de software, inovação tecnológica e soluções que contribuam para a transformação digital.<br><br>Tenho buscado aprimorar continuamente meus conhecimentos por meio de estudos, projetos acadêmicos e desenvolvimento de aplicações práticas.</h1>
+# Vitor Alex | Desenvolvedor
 
-###
+<div align="center">
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="60" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;Desenvolvimento+de+Software;Tecnologia+e+Inova%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es." />
+
+<br>
+
+<img src="https://img.shields.io/badge/Desenvolvedor-Em%20Forma%C3%A7%C3%A3o-0284C7?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Tecnologia-Inova%C3%A7%C3%A3o-1D4ED8?style=for-the-badge&logo=codefactor&logoColor=white" />
+
+<br><br>
+
+Sou estudante e entusiasta da área de Tecnologia da Informação, com interesse em desenvolvimento de software, inovação tecnológica e criação de soluções digitais.
+
+Busco aprimorar continuamente minhas competências técnicas por meio de estudos, projetos acadêmicos e aplicações práticas, explorando diferentes tecnologias e ferramentas para transformar ideias em soluções funcionais.
+
+<br>
+
+<a href="https://www.linkedin.com/in/vitor-alex-calisto-valenzuela-278415334/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Vitor-Valenzuela">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/vitor-alex-calisto-valenzuela-278415334/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/https.vitoralex/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="+55 (67) 992844588" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="mail:vitoralex0412@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+## Tecnologias e ferramentas
+
+<div align="center">
+
+**Linguagens de programação**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,ts,php,dart&theme=dark" />
+
+<br><br>
+
+**Desenvolvimento e frameworks**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,spring,flutter&theme=dark" />
+
+<br><br>
+
+**Banco de dados e sistemas**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,android,arduino,raspberrypi,redhat&theme=dark" />
+
+<br><br>
+
+**Ferramentas e design**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,notion&theme=dark" />
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="48" alt="FileZilla"/>
+
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Vitor-Valenzuela&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+## Estatísticas do GitHub
+
+<div align="center">
+
+<a href="https://github.com/Vitor-Valenzuela">
+<img height="165" src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Vitor-Valenzuela">
+<img height="165" src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/languages-output/languages.svg?layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" />
+</a>
+
+<br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Vitor-Valenzuela&theme=tokyonight&hide_border=true&border_radius=10" />
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/pacman-output/pacman-contribution-graph.svg?game=pacman">
+## Conquistas
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/trophy-output/trophy.svg?theme=tokyonight&column=4&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" />
+
+</div>
+
+---
+
+## Pac-Man | Histórico de contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man GitHub Contribution Graph" src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/y821qkn4j0db2rickm0ea7n83">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=y821qkn4j0db2rickm0ea7n83&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
-###
+---
+
+## O que estou ouvindo
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/y821qkn4j0db2rickm0ea7n83">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=y821qkn4j0db2rickm0ea7n83&count=5&unique=false" width="350" alt="Spotify Recently Played"/>
+</a>
+
+</div>
+
+---
+
+## Entre em contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vitor-alex-calisto-valenzuela-278415334/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/https.vitoralex/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://wa.me/5567992844588" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-0284C7?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="mailto:vitoralex0412@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Vitor-Valenzuela&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL&color=0284C7&style=flat-square" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=100&section=footer" width="100%"/>
+
+</div>
