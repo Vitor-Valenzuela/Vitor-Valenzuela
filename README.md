@@ -1,468 +1,101 @@
-<div align="center">
+<h1 data-importer="text" align="center">Olá! Seja bem-vindo(a) ao meu GitHub.<br><br>Sou estudante e entusiasta da área de Tecnologia da Informação, interessado em desenvolvimento de software, inovação tecnológica e soluções que contribuam para a transformação digital.<br><br>Tenho buscado aprimorar continuamente meus conhecimentos por meio de estudos, projetos acadêmicos e desenvolvimento de aplicações práticas.</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B2E13,100:00FF41&height=220&section=header&text=VITOR%20VALENZUELA&fontSize=52&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20BACKEND%20%2F%2F%20SYSTEMS&descAlignY=58&descSize=16" width="100%"/>
+###
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=%24+whoami;%3Evitor-valenzuela;%24+cat+about.txt;%3ESoftware+Developer;%3EBackend+%7C+Systems+%7C+Technology;%24+./build_future.sh;%3EACCESS+GRANTED+%E2%9C%93" alt="Terminal animation"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF41?style=flat-square&labelColor=111111&logo=linux&logoColor=00FF41"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DEVELOPER-ACTIVE-00FF41?style=flat-square&labelColor=111111&logo=github&logoColor=00FF41"/>
-&nbsp;
-<img src="https://img.shields.io/badge/BACKEND-JAVA-00FF41?style=flat-square&labelColor=111111&logo=openjdk&logoColor=00FF41"/>
-
-<br><br>
-
-<a href="https://github.com/Vitor-Valenzuela">
-<img src="https://img.shields.io/badge/GitHub-Vitor--Valenzuela-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=111111"/>
-</a>
-
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="60" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
 </div>
 
----
+###
 
-## `~/about`
-
-```text
-Vitor Alex Calisto Valenzuela
-──────────────────────────────────────────────
-
-Software Developer
-Backend & Systems enthusiast
-Técnico em Informática
-
-I like turning ideas into useful software,
-solving real problems and learning by building.
-
-> code. learn. build. repeat.
-```
-
----
-
-## `~/profile`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ☕
-
-**Backend**
-
-Java
-Spring Boot
-REST APIs
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Database**
-
-PostgreSQL
-MySQL
-Data
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-**Web**
-
-JavaScript
-TypeScript
-HTML / CSS
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Building**
-
-Systems
-Automation
-APIs
-
-</td>
-</tr>
-</table>
-
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/vitor-alex-calisto-valenzuela-278415334/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/https.vitoralex/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="+55 (67) 992844588" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="mail:vitoralex0412@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
----
+###
 
-## `~/stack`
-
-<div align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Backend"/>
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind&theme=dark" alt="Frontend"/>
-
-<br><br>
-
-### Mobile & Languages
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,php&theme=dark" alt="Mobile and languages"/>
-
-<br><br>
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,docker,vscode,idea&theme=dark" alt="Database and tools"/>
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Vitor-Valenzuela&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-## `~/focus`
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<table>
-<tr>
+###
 
-<td width="33%" valign="top">
-
-### ☕ Backend
-
-* Java
-* Spring Boot
-* Spring Security
-* REST APIs
-* MVC
-* Node.js
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🗄️ Database
-
-* PostgreSQL
-* MySQL
-* Database Design
-* SQL
-* Data Management
-
-</td>
-
-<td width="33%" valign="top">
-
-### ⚙️ Systems
-
-* Automation
-* Dashboards
-* Management Systems
-* Integrations
-* APIs
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `~/projects`
-
-## `01` — Gestor360
-
-> **Sistema de gestão empresarial focado em organização, automação e indicadores.**
-
-```text
-Dashboard       ████████████████████  100%
-Finance         ████████████████████  100%
-Inventory       ████████████████████  100%
-Sales           █████████████████░░░   85%
-Automation      █████████████████░░░   85%
-Reports         ███████████████░░░░░   75%
-```
-
-### Modules
-
-```text
-📊 Dashboard
-💰 Finance
-📦 Inventory
-🛒 Purchases
-👥 Customers
-🏨 Hostel
-🥗 Saladeria
-💇 Dreads
-📈 Reports
-🔔 Alerts
-```
-
-**Stack**
-
-`Google Apps Script` · `JavaScript` · `HTML` · `CSS` · `Google Sheets`
-
----
-
-## `02` — Electronic Attendance
-
-> **Sistema de controle de ponto e gerenciamento de frequência.**
-
-```text
-Authentication  ████████████████████  100%
-Employees       ████████████████████  100%
-Attendance      █████████████████░░░   85%
-Reports         ███████████████░░░░░   75%
-Biometrics      ████████░░░░░░░░░░░░   40%
-```
-
-### Features
-
-```text
-✓ Employee management
-✓ Authentication
-✓ Clock-in / Clock-out
-✓ Working hours
-✓ Reports
-✓ Dashboard
-✓ Database
-○ Biometric integration
-```
-
-**Stack**
-
-`Java` · `Spring Boot` · `PostgreSQL` · `JavaScript`
-
----
-
-# `~/currently`
-
-```text
-[+] Improving Java & Spring Boot
-[+] Studying software architecture
-[+] Building backend systems
-[+] Exploring Docker & Cloud
-[+] Learning cybersecurity
-[+] Creating new projects
-```
-
----
-
-# `~/github`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vitor-Valenzuela&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&text_color=9EFFB0&icon_color=00FF41&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Valenzuela&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=9EFFB0&langs_count=8&card_width=320" height="180" alt="Top Languages"/>
-
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/y821qkn4j0db2rickm0ea7n83">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=y821qkn4j0db2rickm0ea7n83&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vitor-Valenzuela&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=9EFFB0&dates=6AFF80&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# `~/activity`
-
-<div align="center">
-
-## `CONTRIBUTION MATRIX`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor-Valenzuela&bg_color=050505&color=00FF41&line=00FF41&point=FFFFFF&area_color=0B2E13&area=true&hide_border=true&custom_title=Vitor%20Valenzuela%20-%20Contribution%20Activity" width="96%" alt="GitHub Activity Graph"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## `CONTRIBUTION SNAKE`
-
-<img src="https://raw.githubusercontent.com/Vitor-Valenzuela/Vitor-Valenzuela/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub Contribution Snake"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│                    ACTIVITY STATUS                       │
-│                                                          │
-│  COMMITS       ██████████████████████████████  ACTIVE   │
-│  PROJECTS      █████████████████████████░░░░░  BUILDING │
-│  LEARNING      ██████████████████████████████  ACTIVE   │
-│  CONTRIBUTION  █████████████████████████░░░░░  ONLINE   │
-│                                                          │
-│                  ● SYSTEM OPERATIONAL                    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# `~/roadmap`
-
-```text
-                         2026
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │  JAVA ADVANCED  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   SPRING BOOT   │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   ARCHITECTURE  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │  CYBERSECURITY  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ DOCKER / CLOUD  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   BUILD MORE    │
-                  └─────────────────┘
-```
-
----
-
-# `~/philosophy`
-
-<div align="center">
-
-```text
-       THINK
-         │
-         ▼
-       BUILD
-         │
-         ▼
-       DEBUG
-         │
-         ▼
-       LEARN
-         │
-         ▼
-      IMPROVE
-         │
-         ▼
-       REPEAT
-```
-
-### `> There is always something new to build.`
-
-</div>
-
----
-
-# `~/terminal`
-
-```bash
-vitor@github:~$ whoami
-
-vitor-valenzuela
-
-vitor@github:~$ pwd
-
-/home/vitor/developer
-
-vitor@github:~$ ls
-
-backend/
-projects/
-learning/
-ideas/
-future/
-
-vitor@github:~$ ./status
-
-[ ONLINE ] Backend
-[ ONLINE ] Java
-[ ONLINE ] Spring Boot
-[ ONLINE ] PostgreSQL
-[ ACTIVE ] Learning
-[ ACTIVE ] Projects
-
-vitor@github:~$ echo "Keep building."
-
-Keep building.
-```
-
----
-
-# `~/connect`
-
-<div align="center">
-
-<a href="https://github.com/Vitor-Valenzuela">
-<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=050505" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:SEU_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=050505" alt="Email"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-$ ./shutdown.sh
-
-Permission denied.
-
-Reason:
-Vitor is still coding.
-
-█
-```
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Vitor-Valenzuela&style=flat-square&color=00FF41&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:0B2E13,100:050505&height=120&section=footer" width="100%"/>
-
-</div>
+###
